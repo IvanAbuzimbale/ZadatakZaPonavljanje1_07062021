@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje_1_07062021\ZadatakZaPonavljanje_1_07062021\bin\Debug\ZadatakZaPonavljanje_1_07062021.exe.config
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje_1_07062021\ZadatakZaPonavljanje_1_07062021\bin\Debug\ZadatakZaPonavljanje_1_07062021.exe
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje_1_07062021\ZadatakZaPonavljanje_1_07062021\bin\Debug\ZadatakZaPonavljanje_1_07062021.pdb
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje_1_07062021\ZadatakZaPonavljanje_1_07062021\obj\Debug\ZadatakZaPonavljanje_1_07062021.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje_1_07062021\ZadatakZaPonavljanje_1_07062021\obj\Debug\ZadatakZaPonavljanje_1_07062021.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje_1_07062021\ZadatakZaPonavljanje_1_07062021\obj\Debug\ZadatakZaPonavljanje_1_07062021.exe
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje_1_07062021\ZadatakZaPonavljanje_1_07062021\obj\Debug\ZadatakZaPonavljanje_1_07062021.pdb
